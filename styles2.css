@@ -26,9 +26,9 @@ button:hover {
   background-color: #222;
   color: #fff;
 }
-.Food-List{
+#Food-List{
     font-style: italic;
     font-size: 16px;
-    color: orangered;
+    color: teal;
     list-style-type: square;
 }
