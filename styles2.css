@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+body{
+    background-color: lightpink;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: navy;
+}
+ol{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: navy;
+}

@@ -1,0 +1,16 @@
+html{
+    font: 12px Times New Roman, serif;
+    color: red;
+    background-color: aqua;
+}
+.section-heading {
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    color: darkblue;
+}
+#Food-List{
+    font-style: italic;
+    font-size: 14px;
+    color: limegreen;
+    list-style-type: square;
+}

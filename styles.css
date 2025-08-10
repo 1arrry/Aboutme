@@ -1,0 +1,57 @@
+section {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: green;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: greenyellow;
+}
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: gold;
+}
+h4 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: purple;
+}
+h5 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: darkkhaki;
+}
+h6 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: darkseagreen;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+    font-size: 12px;
+}
+body {
+    background-color: lightblue;
+}
+img{
+    width: 100px;
+    height: 100px;;
+}
+.profile{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+}
+.A-Byte-For-All{
+    font-style: bold;
+}

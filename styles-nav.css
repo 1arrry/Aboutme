@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+    overflow: hidden;
+    display: block;
+    justify-content: center;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items:center;
+    text-align: center;
+    gap: 50px;
+}
+.navbar a {
+    color: blue;
+    text-decoration: none;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
