@@ -26,3 +26,7 @@ button:hover {
   background-color: #222;
   color: #fff;
 }
+table:hover{
+ color:red;
+ transition: color 0.3s ease;
+}

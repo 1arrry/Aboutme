@@ -1,0 +1,10 @@
+body{
+    background-color: lightskyblue;
+    overflow: hidden;
+    display: inline-block;
+    justify-content: center;
+}
+input{
+    background-color: lightskyblue;
+    box-shadow: 0 2px 8px black;
+}

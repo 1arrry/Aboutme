@@ -28,3 +28,7 @@ button:hover {
   background-color: #222;
   color: #fff;
 }
+p:hover{
+ color:red;
+ transition: color 0.3s ease;
+}

@@ -62,3 +62,7 @@ button:hover {
   background-color: #222;
   color: #fff;
 }
+body:hover{
+ color:red;
+ transition: color 0.3s ease;
+}
