@@ -16,3 +16,13 @@ ol{
     font-size: 14px;
     color: navy;
 }
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+button:hover {
+  background-color: #222;
+  color: #fff;
+}

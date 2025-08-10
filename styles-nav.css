@@ -5,6 +5,7 @@ body{
     justify-content: center;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
     align-items:center;
     text-align: center;
     gap: 50px;
@@ -16,4 +17,14 @@ body{
     font-family: Arial, sans-serif;
     font-weight: bold;
     font-style: italic;
+}
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+button:hover {
+  background-color: #222;
+  color: #fff;
 }

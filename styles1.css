@@ -13,6 +13,16 @@ tr {
 
 td {
     padding: 16px;
-    font: 12px Times New Roman, serif;
+    font: 15px Times New Roman, serif;
     text-align: center;
+}
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+button:hover {
+  background-color: #222;
+  color: #fff;
 }

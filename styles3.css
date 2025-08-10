@@ -1,5 +1,5 @@
 html{
-    font: 12px Times New Roman, serif;
+    font: 15px Times New Roman, serif;
     color: red;
     background-color: aqua;
 }
@@ -10,7 +10,17 @@ html{
 }
 #Food-List{
     font-style: italic;
-    font-size: 14px;
+    font-size: 16px;
     color: limegreen;
     list-style-type: square;
+}
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+button:hover {
+  background-color: #222;
+  color: #fff;
 }
