@@ -26,3 +26,9 @@ button:hover {
   background-color: #222;
   color: #fff;
 }
+.Food-List{
+    font-style: italic;
+    font-size: 16px;
+    color: orangered;
+    list-style-type: square;
+}
